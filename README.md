@@ -1,4 +1,4 @@
-# pm2-demo 🚀
+# pm2-demo 🚀 | NodeGuardian 🛡️
 
 **pm2-demo** is a self-healing Node.js app managed by **PM2**.  
 It demonstrates **auto-restart, monitoring, scaling, and crash recovery** in a practical way.
